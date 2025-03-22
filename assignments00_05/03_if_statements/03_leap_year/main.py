@@ -1,6 +1,6 @@
 def main():
     while True:
-        year = input("\n\033[01mEnter a year: \033[0m\n")
+        year = input("\n\033[01m\033[03mEnter a year: \033[0m\n")
         if year.isdigit():
             year = int(year)
             if year > 0:
