@@ -1,6 +1,6 @@
-# Project 4 Assignments
+# Assignment 4 Projects 
 
-This repository contains the Python assignments completed for Project 4.
+This repository contains the Python projects completed for assignment 4.
 
 ## Assignments Overview
 
